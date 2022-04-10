@@ -10,7 +10,7 @@
     "@pattern-lab/uikit-workshop": "^1.0.1",
     "browser-sync": "^2.0.0",
     "gulp": "^3.9.1",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "patternlab-node": "^2.0.0",
     "styleguidekit-assets-default": "^3.0.0",
     "styleguidekit-mustache-default": "^3.0.0"
