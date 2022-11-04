@@ -9,7 +9,7 @@
     "@pattern-lab/starterkit-mustache-demo": "^5.0.0",
     "@pattern-lab/uikit-workshop": "^1.0.1",
     "browser-sync": "^2.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "minimist": "1.2.0",
     "patternlab-node": "^2.0.0",
     "styleguidekit-assets-default": "^3.0.0",
